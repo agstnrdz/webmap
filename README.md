@@ -1,2 +1,2 @@
 # webmap
-an introduction to creating web maps from scratch
+an introduction to creating web maps from scratch using Leaflet
